@@ -20,6 +20,7 @@ struct StudentsView: View {
                 StudentsListView()
             }
                 .navigationBarItems(trailing: NavigationLink("Add student", destination: AddStudentView()))
+                .tint(Color.mint)
         }
         
     }

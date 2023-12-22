@@ -30,7 +30,7 @@ struct ClassroomsListView: View {
                     .font(.largeTitle)
                     .fontWeight(.bold)
                     .foregroundColor(.black)
-                    .padding(.bottom, -20)
+                    .padding(.bottom, 10)
                 List {
                     ForEach(classrooms.indices, id: \.self) { index in
                         let colorIndex = index % Utilities().pastelColors.count
@@ -38,8 +38,9 @@ struct ClassroomsListView: View {
                         
                         NavigationLink(destination: ClassroomDetailView(classroom: classrooms[index])) {
                             ClassroomCellView(classroom: classrooms[index])
-                                .background(backgroundColor)
+                                .background(backgroundColor.opacity(0.8))
                                 .cornerRadius(8)
+                                .shadow(color: .gray.opacity(0.5), radius: 3, x: 2, y: 5)
                         }
                         .listRowSeparator(.hidden)
                     }
@@ -52,6 +53,8 @@ struct ClassroomsListView: View {
                     }
                     .animation(.default, value: self.classrooms)
                 }
+                .listStyle(PlainListStyle())
+                .background(Color.clear)
                 .scrollContentBackground(.hidden)
                 
                 Spacer()
@@ -71,6 +74,7 @@ struct ClassroomsListView: View {
             .navigationBarItems(trailing: Button("Sync") {
                 syncWithBackend()
             })
+            .tint(Color.mint)
             .overlay(
                 Group {
                     if isSyncing {
@@ -93,6 +97,7 @@ struct ClassroomsListView: View {
             }
         }
     }
+    
     
     private func syncWithBackend() {
         isSyncing = true

@@ -38,6 +38,7 @@ struct StudentSearchView: View {
             .navigationBarItems(trailing: Button("Close") {
                 presentationMode.wrappedValue.dismiss()
             })
+            .tint(Color.mint)
         }
     }
 

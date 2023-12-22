@@ -8,6 +8,7 @@
 import SwiftUI
 import SwiftData
 
+
 @main
 struct SchoolSecretaryApp: App {
     @State private var selectedProfessor: Professor? = nil

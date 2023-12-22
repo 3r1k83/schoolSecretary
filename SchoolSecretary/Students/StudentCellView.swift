@@ -49,9 +49,9 @@ struct StudentCellView: View {
             Spacer()
         }
         .padding(10)
-        .background(
-            RoundedRectangle(cornerRadius: 10)
-                .fill(Color(UIColor.systemBackground).opacity(0.8))
-        )
+//        .background(
+//            RoundedRectangle(cornerRadius: 10)
+//                .fill(Color(UIColor.systemBackground).opacity(0.8))
+//        )
     }
 }

@@ -80,7 +80,7 @@ struct ProfessorDetailView: View {
                 Text(isEditing ? "Save Changes" : "Edit professor")
             }
             .padding()
-            .background(Color.mint)
+            .background(isEditing ? Color.green : Color.mint)
             .foregroundColor(.white)
             .cornerRadius(8)
             .padding(.bottom,40)

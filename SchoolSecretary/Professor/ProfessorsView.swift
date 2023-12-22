@@ -14,6 +14,7 @@ struct ProfessorsView: View {
             ProfessorListView()
                 .navigationBarTitle("Professors")
                 .navigationBarItems(trailing: NavigationLink("Add professor", destination: AddProfessorsView()))
+                .tint(Color.mint)
         }
         
     }

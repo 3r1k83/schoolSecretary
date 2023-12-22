@@ -25,10 +25,17 @@ struct StudentsListView: View {
                 SearchBar(text: $searchText)
                     .padding(.horizontal)
                 List {
-                    ForEach(filteredStudents, id: \._id) { student in
-                        NavigationLink(destination: StudentDetailView(student: student)) {
-                            StudentCellView(student: student)
+                    ForEach(filteredStudents.indices, id: \.self) { index in
+                        let colorIndex = index % Utilities().pastelColors.count
+                        let backgroundColor = Utilities().pastelColors[colorIndex]
+                        NavigationLink(destination: StudentDetailView(student: students[index])) {
+                            StudentCellView(student: students[index])
+                                .background(backgroundColor.opacity(0.8))
+                                .cornerRadius(8)
+                                .shadow(color: .gray.opacity(0.5), radius: 3, x: 2, y: 5)
+                                .listRowBackground(Color.clear)
                         }
+                        .listRowSeparator(.hidden)
                     }
                     .onDelete { indexSet in
                         // Show an alert if the student is associated with a classroom
@@ -51,7 +58,8 @@ struct StudentsListView: View {
                     }
                     .animation(.default, value: self.filteredStudents)
                 }
-            }
+                .listStyle(PlainListStyle())
+                .background(Color.clear)            }
             .alert(isPresented: $showAlert) {
                 Alert(
                     title: Text("You cannot Delete this Student"),

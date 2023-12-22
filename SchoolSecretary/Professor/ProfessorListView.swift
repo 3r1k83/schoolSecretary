@@ -22,10 +22,18 @@ struct ProfessorListView: View {
                     SearchBar(text: $searchText)
                         .padding(.horizontal)
                     List {
-                        ForEach(self.filteredProfessors, id: \._id) { professor in
-                            NavigationLink(destination: ProfessorDetailView(professor: professor)) {
-                                ProfessorCellView(professor: professor)
+                        ForEach(self.filteredProfessors.indices, id: \.self) { index in
+                            let colorIndex = index % Utilities().pastelColors.count
+                            let backgroundColor = Utilities().pastelColors[colorIndex]
+                            NavigationLink(destination: ProfessorDetailView(professor: professors[index])) {
+                                ProfessorCellView(professor: professors[index])
+                                    .background(backgroundColor.opacity(0.8))
+                                    .cornerRadius(8)
+                                    .shadow(color: .gray.opacity(0.5), radius: 3, x: 2, y: 5)
+                                
                             }
+                            .listRowSeparator(.hidden)
+                            
                         }
                         .onDelete { indexSet in
                             // Mostra un alert se il professore è associato a una classe
@@ -41,6 +49,8 @@ struct ProfessorListView: View {
 
                     }
                 }
+                .listStyle(PlainListStyle())
+                .background(Color.clear)
                 .alert(isPresented: $showAlert) {
                     Alert(
                         title: Text("You cannot Delete this Professor"),
