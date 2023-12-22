@@ -1,0 +1,2331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FBEF27A0-56D0-41CC-B942-C047DC60DED5"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CE6603F8-C483-44FC-B19F-3BB76270C401"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SchoolSecretary/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "CE6603F8-C483-44FC-B19F-3BB76270C401 - fb82451e03b6d509"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #2 () -&gt; () in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0 in SchoolSecretary.ContentView.body.getter : some"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "360">
+               </Location>
+               <Location
+                  uuid = "CE6603F8-C483-44FC-B19F-3BB76270C401 - 2dd6841cca3af040"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #2 () -&gt; () in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;A where A1: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; A1) -&gt; some&gt;&gt;.0 in SchoolSecretary.ContentView.body.getter : some"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "360">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "99E0D5E3-0D3B-416D-978E-7D430ABEAA90"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SchoolSecretary/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "99E0D5E3-0D3B-416D-978E-7D430ABEAA90 - fb82451e03b6d54b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #2 () -&gt; () in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0 in SchoolSecretary.ContentView.body.getter : some"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  uuid = "99E0D5E3-0D3B-416D-978E-7D430ABEAA90 - 2dd6841cca3af002"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #2 () -&gt; () in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;A where A1: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; A1) -&gt; some&gt;&gt;.0 in SchoolSecretary.ContentView.body.getter : some"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "156">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5531670C-FBA4-4E1E-8A7D-C09DE2D1CDD3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SchoolSecretary/ClassroomManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "107"
+            endingLineNumber = "107"
+            landmarkName = "syncWithBackend(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6FA58EF9-9CFE-4704-8482-99D9A71F06F3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SchoolSecretary/ClassroomManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "121"
+            endingLineNumber = "121"
+            landmarkName = "fetchClassroomsFromBackend(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "09797DB4-737F-4F8E-BD91-3CC995F18D0B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SchoolSecretary/SchoolSecretaryAPI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "getClassrooms(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "09797DB4-737F-4F8E-BD91-3CC995F18D0B - 6c0f52301cba0037"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SchoolSecretary.SchoolAPIClient.getClassrooms(completion: (Swift.Result&lt;Swift.Array&lt;SchoolSecretary.Classroom&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/SchoolSecretaryAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "280">
+               </Location>
+               <Location
+                  uuid = "09797DB4-737F-4F8E-BD91-3CC995F18D0B - 6c0f52301cba0037"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SchoolSecretary.SchoolAPIClient.getClassrooms(completion: (Swift.Result&lt;Swift.Array&lt;SchoolSecretary.Classroom&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/SchoolSecretaryAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "372">
+               </Location>
+               <Location
+                  uuid = "09797DB4-737F-4F8E-BD91-3CC995F18D0B - 6c0f52301cba0075"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SchoolSecretary.SchoolAPIClient.getClassrooms(completion: (Swift.Result&lt;Swift.Array&lt;SchoolSecretary.Classroom&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/SchoolSecretaryAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "372">
+               </Location>
+               <Location
+                  uuid = "09797DB4-737F-4F8E-BD91-3CC995F18D0B - 6c0f52301cba0075"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SchoolSecretary.SchoolAPIClient.getClassrooms(completion: (Swift.Result&lt;Swift.Array&lt;SchoolSecretary.Classroom&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/SchoolSecretaryAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "280">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BBBDBE06-8C54-4F04-A413-3AEE8EF6DA6E"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SchoolSecretary/SchoolSecretaryAPI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "getClassrooms(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BBBDBE06-8C54-4F04-A413-3AEE8EF6DA6E - 6c0f52301cba019c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SchoolSecretary.SchoolAPIClient.getClassrooms(completion: (Swift.Result&lt;Swift.Array&lt;SchoolSecretary.Classroom&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/SchoolSecretaryAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "620">
+               </Location>
+               <Location
+                  uuid = "BBBDBE06-8C54-4F04-A413-3AEE8EF6DA6E - 6c0f52301cba019c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SchoolSecretary.SchoolAPIClient.getClassrooms(completion: (Swift.Result&lt;Swift.Array&lt;SchoolSecretary.Classroom&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/SchoolSecretaryAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "73"
+                  endingLineNumber = "73"
+                  offsetFromSymbolStart = "876">
+               </Location>
+               <Location
+                  uuid = "BBBDBE06-8C54-4F04-A413-3AEE8EF6DA6E - 6c0f52301cba01c2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SchoolSecretary.SchoolAPIClient.getClassrooms(completion: (Swift.Result&lt;Swift.Array&lt;SchoolSecretary.Classroom&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/SchoolSecretaryAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "876">
+               </Location>
+               <Location
+                  uuid = "BBBDBE06-8C54-4F04-A413-3AEE8EF6DA6E - 6c0f52301cba01c2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SchoolSecretary.SchoolAPIClient.getClassrooms(completion: (Swift.Result&lt;Swift.Array&lt;SchoolSecretary.Classroom&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/SchoolSecretaryAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "75"
+                  endingLineNumber = "75"
+                  offsetFromSymbolStart = "508">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5927B801-5891-4751-9A0A-61F735AACF37"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SchoolSecretary/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "body"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0B2438E0-250E-4EED-8827-09AABC484FC4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SchoolSecretary/ClassroomManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "89"
+            endingLineNumber = "89"
+            landmarkName = "syncWithBackend(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5C467E1F-2937-441D-8FE6-AC84D7FEB37A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SchoolSecretary/ClassroomManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "95"
+            endingLineNumber = "95"
+            landmarkName = "syncWithBackend(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "645C5C07-0509-43A5-A4E8-5948BD6D699B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SchoolSecretary/ClassroomManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "syncWithBackend(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9429F494-72C9-43F2-94D1-A0FFDBC9C8DB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SchoolSecretary/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "9429F494-72C9-43F2-94D1-A0FFDBC9C8DB - 543de370d7fb2de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.DynamicViewContent.onDelete(perform: Swift.Optional&lt;(Foundation.IndexSet) -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0 in SchoolSecretary.ContentView.body.getter : some"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "228">
+               </Location>
+               <Location
+                  uuid = "9429F494-72C9-43F2-94D1-A0FFDBC9C8DB - ec2d31d979b03c43"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SchoolSecretary.Classroom) -&gt; SwiftUI.EmptyView in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.DynamicViewContent.onDelete(perform: Swift.Optional&lt;(Foundation.IndexSet) -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0 in SchoolSecretary.ContentView.body.getter : some"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  uuid = "9429F494-72C9-43F2-94D1-A0FFDBC9C8DB - 543de370d7fb2de"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.DynamicViewContent.onDelete(perform: Swift.Optional&lt;(Foundation.IndexSet) -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0 in SchoolSecretary.ContentView.body.getter : some"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "232">
+               </Location>
+               <Location
+                  uuid = "9429F494-72C9-43F2-94D1-A0FFDBC9C8DB - fab46afc87f39f8d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SchoolSecretary.Classroom) -&gt; SwiftUI.Text in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.DynamicViewContent.onDelete(perform: Swift.Optional&lt;(Foundation.IndexSet) -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0 in SchoolSecretary.ContentView.body.getter : some"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  uuid = "9429F494-72C9-43F2-94D1-A0FFDBC9C8DB - 1d840aa3bcbcb99e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SchoolSecretary.Classroom) -&gt; SwiftUI.NavigationLink&lt;SwiftUI.Text, SchoolSecretary.ClassroomDetailView&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.DynamicViewContent.onDelete(perform: Swift.Optional&lt;(Foundation.IndexSet) -&gt; ()&gt;) -&gt; some&gt;&gt;.0 in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0 in SchoolSecretary.ContentView.body.getter : some"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "184">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A2679184-0695-420D-8075-2B2DFFC7966C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SchoolSecretary/ClassroomManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "addClassroom(classroom:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A2679184-0695-420D-8075-2B2DFFC7966C - ac4a587173781678"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SchoolSecretary.ClassroomManager.addClassroom(classroom: SchoolSecretary.Classroom, completion: (Swift.Result&lt;Swift.Bool, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/ClassroomManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "A2679184-0695-420D-8075-2B2DFFC7966C - ac4a587173781678"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SchoolSecretary.ClassroomManager.addClassroom(classroom: SchoolSecretary.Classroom, completion: (Swift.Result&lt;Swift.Bool, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/ClassroomManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "304">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "978E8B34-CC4C-43FD-846E-C089EBAFADF2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SchoolSecretary/ClassroomManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "addClassroom(classroom:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "978E8B34-CC4C-43FD-846E-C089EBAFADF2 - ac4a5871737816fc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SchoolSecretary.ClassroomManager.addClassroom(classroom: SchoolSecretary.Classroom, completion: (Swift.Result&lt;Swift.Bool, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/ClassroomManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "444">
+               </Location>
+               <Location
+                  uuid = "978E8B34-CC4C-43FD-846E-C089EBAFADF2 - 1f37734aad94e4ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in SchoolSecretary.ClassroomManager.addClassroom(classroom: SchoolSecretary.Classroom, completion: (Swift.Result&lt;Swift.Bool, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/ClassroomManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4C238829-BFAA-479F-AA4B-600C1B5EC3E7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SchoolSecretary/Network/SchoolSecretaryAPI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "getClassrooms(completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "4C238829-BFAA-479F-AA4B-600C1B5EC3E7 - 70e99a88d432f5f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SchoolSecretary.SchoolAPIClient.getClassrooms(completion: (Swift.Result&lt;Swift.Array&lt;SchoolSecretary.Classroom&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/Network/SchoolSecretaryAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "1160">
+               </Location>
+               <Location
+                  uuid = "4C238829-BFAA-479F-AA4B-600C1B5EC3E7 - e212b927a038fbaf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SchoolSecretary.SchoolAPIClient.getClassrooms(completion: (Swift.Result&lt;Swift.Array&lt;SchoolSecretary.Classroom&gt;, Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/Network/SchoolSecretaryAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "140">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CCC524EA-4DB9-4208-BFD4-05C1AC8A120A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SchoolSecretary/Network/SchoolSecretaryAPI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "getClassrooms(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5E896A6A-BC5C-4570-A1EA-B9D20367BC72"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SchoolSecretary/AddClassroomView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "addClassroom()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5E896A6A-BC5C-4570-A1EA-B9D20367BC72 - a5c17da150d5943a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SchoolSecretary.AddClassroomView.addClassroom() -&gt; ()"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/AddClassroomView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "2780">
+               </Location>
+               <Location
+                  uuid = "5E896A6A-BC5C-4570-A1EA-B9D20367BC72 - a5c17da150d59415"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SchoolSecretary.AddClassroomView.addClassroom() -&gt; ()"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/AddClassroomView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "2780">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "51022CE4-C82A-4321-9870-C9ABE5A25C88"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SchoolSecretary/AddClassroomView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "addClassroom()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "51022CE4-C82A-4321-9870-C9ABE5A25C88 - a5c17da150d594df"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SchoolSecretary.AddClassroomView.addClassroom() -&gt; ()"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/AddClassroomView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "2724">
+               </Location>
+               <Location
+                  uuid = "51022CE4-C82A-4321-9870-C9ABE5A25C88 - a5c17da150d594be"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SchoolSecretary.AddClassroomView.addClassroom() -&gt; ()"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/AddClassroomView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "2724">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "122C585D-8615-4280-A08D-CC2BB40D7ABF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SchoolSecretary/AddClassroomView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "122C585D-8615-4280-A08D-CC2BB40D7ABF - 9351bb43c4d822a5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.ForEach&lt;Swift.Array&lt;SchoolSecretary.Student&gt;, SchoolSecretary.Student, SwiftUI.Text&gt;, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TextField&lt;SwiftUI.Text&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(SwiftUI.ForEach&lt;Swift.Array&lt;SchoolSecretary.Student&gt;, SchoolSecretary.Student, SwiftUI.Text&gt;, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(Swift.Optional&lt;SwiftUI.Text&gt;, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Button&lt;SwiftUI.Text&gt;)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationTitle(SwiftUI.LocalizedStringKey) -&gt; some&gt;&gt;.0 in SchoolSecretary.AddClassroomView.body.getter : some"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/AddClassroomView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "484">
+               </Location>
+               <Location
+                  uuid = "122C585D-8615-4280-A08D-CC2BB40D7ABF - 78b64d2febf9f2a8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SchoolSecretary.Student) -&gt; SwiftUI.Text in closure #2 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.ForEach&lt;Swift.Array&lt;SchoolSecretary.Student&gt;, SchoolSecretary.Student, SwiftUI.Text&gt;, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TextField&lt;SwiftUI.Text&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(SwiftUI.ForEach&lt;Swift.Array&lt;SchoolSecretary.Student&gt;, SchoolSecretary.Student, SwiftUI.Text&gt;, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(Swift.Optional&lt;SwiftUI.Text&gt;, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Button&lt;SwiftUI.Text&gt;)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationTitle(SwiftUI.LocalizedStringKey) -&gt; some&gt;&gt;.0 in SchoolSecretary.AddClassroomView.body.getter : some"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/AddClassroomView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "220">
+               </Location>
+               <Location
+                  uuid = "122C585D-8615-4280-A08D-CC2BB40D7ABF - c888cba89d34cec3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.ForEach&lt;Swift.Array&lt;SchoolSecretary.Student&gt;, Swift.String, SwiftUI.Text&gt;, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TextField&lt;SwiftUI.Text&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(SwiftUI.ForEach&lt;Swift.Array&lt;SchoolSecretary.Student&gt;, Swift.String, SwiftUI.Text&gt;, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(Swift.Optional&lt;SwiftUI.Text&gt;, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Button&lt;SwiftUI.Text&gt;)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationTitle(SwiftUI.LocalizedStringKey) -&gt; some&gt;&gt;.0 in SchoolSecretary.AddClassroomView.body.getter : some"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/AddClassroomView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "484">
+               </Location>
+               <Location
+                  uuid = "122C585D-8615-4280-A08D-CC2BB40D7ABF - cf8d28b41c3e3799"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SchoolSecretary.Student) -&gt; SwiftUI.Text in closure #2 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.ForEach&lt;Swift.Array&lt;SchoolSecretary.Student&gt;, Swift.String, SwiftUI.Text&gt;, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TextField&lt;SwiftUI.Text&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(SwiftUI.ForEach&lt;Swift.Array&lt;SchoolSecretary.Student&gt;, Swift.String, SwiftUI.Text&gt;, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(Swift.Optional&lt;SwiftUI.Text&gt;, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Button&lt;SwiftUI.Text&gt;)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationTitle(SwiftUI.LocalizedStringKey) -&gt; some&gt;&gt;.0 in SchoolSecretary.AddClassroomView.body.getter : some"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/AddClassroomView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "220">
+               </Location>
+               <Location
+                  uuid = "122C585D-8615-4280-A08D-CC2BB40D7ABF - aa40a8db0c4f676d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;SchoolSecretary.Student&gt;, Swift.String, SwiftUI.Text&gt; in closure #2 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;SwiftUI.ForEach&lt;Swift.Array&lt;SchoolSecretary.Student&gt;, Swift.String, SwiftUI.Text&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TextField&lt;SwiftUI.Text&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;SwiftUI.ForEach&lt;Swift.Array&lt;SchoolSecretary.Student&gt;, Swift.String, SwiftUI.Text&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(Swift.Optional&lt;SwiftUI.Text&gt;, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Button&lt;SwiftUI.Text&gt;)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.alert(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, content: () -&gt; SwiftUI.Alert) -&gt; some&gt;&gt;.0 in SchoolSecretary.AddClassroomView.body.getter : some"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/AddClassroomView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "204">
+               </Location>
+               <Location
+                  uuid = "122C585D-8615-4280-A08D-CC2BB40D7ABF - 2c74c523c0b470b8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SchoolSecretary.Student) -&gt; SwiftUI.Text in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;SchoolSecretary.Student&gt;, Swift.String, SwiftUI.Text&gt; in closure #2 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;SwiftUI.ForEach&lt;Swift.Array&lt;SchoolSecretary.Student&gt;, Swift.String, SwiftUI.Text&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TextField&lt;SwiftUI.Text&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;SwiftUI.ForEach&lt;Swift.Array&lt;SchoolSecretary.Student&gt;, Swift.String, SwiftUI.Text&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(Swift.Optional&lt;SwiftUI.Text&gt;, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Button&lt;SwiftUI.Text&gt;)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.alert(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, content: () -&gt; SwiftUI.Alert) -&gt; some&gt;&gt;.0 in SchoolSecretary.AddClassroomView.body.getter : some"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/AddClassroomView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "220">
+               </Location>
+               <Location
+                  uuid = "122C585D-8615-4280-A08D-CC2BB40D7ABF - 2c74c523c0b470b8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (SchoolSecretary.Student) -&gt; SwiftUI.Text in closure #1 () -&gt; SwiftUI.ForEach&lt;Swift.Array&lt;SchoolSecretary.Student&gt;, Swift.String, SwiftUI.Text&gt; in closure #2 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;SwiftUI.ForEach&lt;Swift.Array&lt;SchoolSecretary.Student&gt;, Swift.String, SwiftUI.Text&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TextField&lt;SwiftUI.Text&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;SwiftUI.ForEach&lt;Swift.Array&lt;SchoolSecretary.Student&gt;, Swift.String, SwiftUI.Text&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(Swift.Optional&lt;SwiftUI.Text&gt;, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Button&lt;SwiftUI.Text&gt;)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.alert(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, content: () -&gt; SwiftUI.Alert) -&gt; some&gt;&gt;.0 in SchoolSecretary.AddClassroomView.body.getter : some"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/AddClassroomView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "228">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B2654A6E-FA8D-4E16-A6A6-3E57B8952C5F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SchoolSecretary/AddClassroomView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "B2654A6E-FA8D-4E16-A6A6-3E57B8952C5F - cae73d56ed40b26d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TextField&lt;SwiftUI.Text&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(SwiftUI.ForEach&lt;Swift.Array&lt;SchoolSecretary.Student&gt;, SchoolSecretary.Student, SwiftUI.Text&gt;, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(Swift.Optional&lt;SwiftUI.Text&gt;, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Button&lt;SwiftUI.Text&gt;)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationTitle(SwiftUI.LocalizedStringKey) -&gt; some&gt;&gt;.0 in SchoolSecretary.AddClassroomView.body.getter : some"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/AddClassroomView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "524">
+               </Location>
+               <Location
+                  uuid = "B2654A6E-FA8D-4E16-A6A6-3E57B8952C5F - c9e1273eb8f0a9e1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TextField&lt;SwiftUI.Text&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TextField&lt;SwiftUI.Text&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(SwiftUI.ForEach&lt;Swift.Array&lt;SchoolSecretary.Student&gt;, SchoolSecretary.Student, SwiftUI.Text&gt;, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(Swift.Optional&lt;SwiftUI.Text&gt;, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Button&lt;SwiftUI.Text&gt;)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationTitle(SwiftUI.LocalizedStringKey) -&gt; some&gt;&gt;.0 in SchoolSecretary.AddClassroomView.body.getter : some"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/AddClassroomView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "188">
+               </Location>
+               <Location
+                  uuid = "B2654A6E-FA8D-4E16-A6A6-3E57B8952C5F - f0fbbdc702498d81"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TextField&lt;SwiftUI.Text&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(SwiftUI.ForEach&lt;Swift.Array&lt;SchoolSecretary.Student&gt;, Swift.String, SwiftUI.Text&gt;, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(Swift.Optional&lt;SwiftUI.Text&gt;, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Button&lt;SwiftUI.Text&gt;)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationTitle(SwiftUI.LocalizedStringKey) -&gt; some&gt;&gt;.0 in SchoolSecretary.AddClassroomView.body.getter : some"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/AddClassroomView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "524">
+               </Location>
+               <Location
+                  uuid = "B2654A6E-FA8D-4E16-A6A6-3E57B8952C5F - a50b25c0c0b05ad9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TextField&lt;SwiftUI.Text&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TextField&lt;SwiftUI.Text&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(SwiftUI.ForEach&lt;Swift.Array&lt;SchoolSecretary.Student&gt;, Swift.String, SwiftUI.Text&gt;, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(Swift.Optional&lt;SwiftUI.Text&gt;, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Button&lt;SwiftUI.Text&gt;)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationTitle(SwiftUI.LocalizedStringKey) -&gt; some&gt;&gt;.0 in SchoolSecretary.AddClassroomView.body.getter : some"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/AddClassroomView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "188">
+               </Location>
+               <Location
+                  uuid = "B2654A6E-FA8D-4E16-A6A6-3E57B8952C5F - 303f4af06e6a197c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TextField&lt;SwiftUI.Text&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;SwiftUI.ForEach&lt;Swift.Array&lt;SchoolSecretary.Student&gt;, Swift.String, SwiftUI.Text&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(Swift.Optional&lt;SwiftUI.Text&gt;, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Button&lt;SwiftUI.Text&gt;)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.alert(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, content: () -&gt; SwiftUI.Alert) -&gt; some&gt;&gt;.0 in SchoolSecretary.AddClassroomView.body.getter : some"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/AddClassroomView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "524">
+               </Location>
+               <Location
+                  uuid = "B2654A6E-FA8D-4E16-A6A6-3E57B8952C5F - 32a5e6fade648aea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.TextField&lt;SwiftUI.Text&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TextField&lt;SwiftUI.Text&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;SwiftUI.ForEach&lt;Swift.Array&lt;SchoolSecretary.Student&gt;, Swift.String, SwiftUI.Text&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(Swift.Optional&lt;SwiftUI.Text&gt;, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Button&lt;SwiftUI.Text&gt;)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.alert(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, content: () -&gt; SwiftUI.Alert) -&gt; some&gt;&gt;.0 in SchoolSecretary.AddClassroomView.body.getter : some"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/AddClassroomView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "188">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "30351072-9827-48B6-9A6C-70E19B30ED62"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SchoolSecretary/AddClassroomView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "30351072-9827-48B6-9A6C-70E19B30ED62 - fcd0fc8bf65cacc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; SwiftUI.TupleView&lt;(Swift.Optional&lt;SwiftUI.Text&gt;, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TextField&lt;SwiftUI.Text&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(SwiftUI.ForEach&lt;Swift.Array&lt;SchoolSecretary.Student&gt;, SchoolSecretary.Student, SwiftUI.Text&gt;, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(Swift.Optional&lt;SwiftUI.Text&gt;, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Button&lt;SwiftUI.Text&gt;)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationTitle(SwiftUI.LocalizedStringKey) -&gt; some&gt;&gt;.0 in SchoolSecretary.AddClassroomView.body.getter : some"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/AddClassroomView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "532">
+               </Location>
+               <Location
+                  uuid = "30351072-9827-48B6-9A6C-70E19B30ED62 - fcd0fc8bf65cacc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; SwiftUI.TupleView&lt;(Swift.Optional&lt;SwiftUI.Text&gt;, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TextField&lt;SwiftUI.Text&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(SwiftUI.ForEach&lt;Swift.Array&lt;SchoolSecretary.Student&gt;, SchoolSecretary.Student, SwiftUI.Text&gt;, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(Swift.Optional&lt;SwiftUI.Text&gt;, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Button&lt;SwiftUI.Text&gt;)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationTitle(SwiftUI.LocalizedStringKey) -&gt; some&gt;&gt;.0 in SchoolSecretary.AddClassroomView.body.getter : some"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/AddClassroomView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "828">
+               </Location>
+               <Location
+                  uuid = "30351072-9827-48B6-9A6C-70E19B30ED62 - a187078ed9c5be7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; SwiftUI.TupleView&lt;(Swift.Optional&lt;SwiftUI.Text&gt;, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TextField&lt;SwiftUI.Text&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(SwiftUI.ForEach&lt;Swift.Array&lt;SchoolSecretary.Student&gt;, Swift.String, SwiftUI.Text&gt;, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(Swift.Optional&lt;SwiftUI.Text&gt;, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Button&lt;SwiftUI.Text&gt;)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationTitle(SwiftUI.LocalizedStringKey) -&gt; some&gt;&gt;.0 in SchoolSecretary.AddClassroomView.body.getter : some"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/AddClassroomView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "532">
+               </Location>
+               <Location
+                  uuid = "30351072-9827-48B6-9A6C-70E19B30ED62 - a187078ed9c5be7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; SwiftUI.TupleView&lt;(Swift.Optional&lt;SwiftUI.Text&gt;, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TextField&lt;SwiftUI.Text&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(SwiftUI.ForEach&lt;Swift.Array&lt;SchoolSecretary.Student&gt;, Swift.String, SwiftUI.Text&gt;, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(Swift.Optional&lt;SwiftUI.Text&gt;, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Button&lt;SwiftUI.Text&gt;)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.navigationTitle(SwiftUI.LocalizedStringKey) -&gt; some&gt;&gt;.0 in SchoolSecretary.AddClassroomView.body.getter : some"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/AddClassroomView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "828">
+               </Location>
+               <Location
+                  uuid = "30351072-9827-48B6-9A6C-70E19B30ED62 - 357ff1553b3e4890"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; SwiftUI.TupleView&lt;(Swift.Optional&lt;SwiftUI.Text&gt;, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TextField&lt;SwiftUI.Text&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;SwiftUI.ForEach&lt;Swift.Array&lt;SchoolSecretary.Student&gt;, Swift.String, SwiftUI.Text&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(Swift.Optional&lt;SwiftUI.Text&gt;, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Button&lt;SwiftUI.Text&gt;)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.alert(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, content: () -&gt; SwiftUI.Alert) -&gt; some&gt;&gt;.0 in SchoolSecretary.AddClassroomView.body.getter : some"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/AddClassroomView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "532">
+               </Location>
+               <Location
+                  uuid = "30351072-9827-48B6-9A6C-70E19B30ED62 - 357ff1553b3e4890"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; SwiftUI.TupleView&lt;(Swift.Optional&lt;SwiftUI.Text&gt;, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TextField&lt;SwiftUI.Text&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;SwiftUI.ForEach&lt;Swift.Array&lt;SchoolSecretary.Student&gt;, Swift.String, SwiftUI.Text&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(Swift.Optional&lt;SwiftUI.Text&gt;, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Button&lt;SwiftUI.Text&gt;)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.alert(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, content: () -&gt; SwiftUI.Alert) -&gt; some&gt;&gt;.0 in SchoolSecretary.AddClassroomView.body.getter : some"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/AddClassroomView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "48"
+                  endingLineNumber = "48"
+                  offsetFromSymbolStart = "828">
+               </Location>
+               <Location
+                  uuid = "30351072-9827-48B6-9A6C-70E19B30ED62 - 357ff1553b3e48b1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; SwiftUI.TupleView&lt;(Swift.Optional&lt;SwiftUI.Text&gt;, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TextField&lt;SwiftUI.Text&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;SwiftUI.ForEach&lt;Swift.Array&lt;SchoolSecretary.Student&gt;, Swift.String, SwiftUI.Text&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(Swift.Optional&lt;SwiftUI.Text&gt;, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Button&lt;SwiftUI.Text&gt;)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.alert(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, content: () -&gt; SwiftUI.Alert) -&gt; some&gt;&gt;.0 in SchoolSecretary.AddClassroomView.body.getter : some"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/AddClassroomView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "532">
+               </Location>
+               <Location
+                  uuid = "30351072-9827-48B6-9A6C-70E19B30ED62 - 357ff1553b3e48b1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; SwiftUI.TupleView&lt;(Swift.Optional&lt;SwiftUI.Text&gt;, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt; in closure #1 () -&gt; SwiftUI.TupleView&lt;(SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TextField&lt;SwiftUI.Text&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(SwiftUI.VStack&lt;SwiftUI.ForEach&lt;Swift.Array&lt;SchoolSecretary.Student&gt;, Swift.String, SwiftUI.Text&gt;&gt;, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Section&lt;SwiftUI.Text, SwiftUI.TupleView&lt;(Swift.Optional&lt;SwiftUI.Text&gt;, &lt;&lt;opaque return type of SwiftUI.View.sheet&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, onDismiss: Swift.Optional&lt;() -&gt; ()&gt;, content: () -&gt; &#x3c4;_1_0) -&gt; some&gt;&gt;.0)&gt;, SwiftUI.EmptyView&gt;, SwiftUI.Button&lt;SwiftUI.Text&gt;)&gt; in closure #1 () -&gt; &lt;&lt;opaque return type of SwiftUI.View.alert(isPresented: SwiftUI.Binding&lt;Swift.Bool&gt;, content: () -&gt; SwiftUI.Alert) -&gt; some&gt;&gt;.0 in SchoolSecretary.AddClassroomView.body.getter : some"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/AddClassroomView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "828">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A10DE070-C276-4146-94AC-96372EE35DFF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SchoolSecretary/MainContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "115"
+            endingLineNumber = "115"
+            landmarkName = "addNewClassroomsToLocal(local:remote:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A10DE070-C276-4146-94AC-96372EE35DFF - 8cabfb8bae86f870"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SchoolSecretary.MainContentView.addNewClassroomsToLocal(local: inout Swift.Array&lt;SchoolSecretary.Classroom&gt;, remote: Swift.Array&lt;SchoolSecretary.Classroom&gt;) -&gt; ()"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/MainContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115"
+                  offsetFromSymbolStart = "404">
+               </Location>
+               <Location
+                  uuid = "A10DE070-C276-4146-94AC-96372EE35DFF - 7a5818ff4fe4818f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Bool, Swift.Error&gt;) -&gt; () in SchoolSecretary.MainContentView.addNewClassroomsToLocal(local: inout Swift.Array&lt;SchoolSecretary.Classroom&gt;, remote: Swift.Array&lt;SchoolSecretary.Classroom&gt;) -&gt; ()"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/MainContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "A10DE070-C276-4146-94AC-96372EE35DFF - 7a5818ff4fe49e6c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Bool, Swift.Error&gt;) -&gt; () in SchoolSecretary.MainContentView.addNewClassroomsToLocal(local: inout Swift.Array&lt;SchoolSecretary.Classroom&gt;, remote: Swift.Array&lt;SchoolSecretary.Classroom&gt;) -&gt; ()"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/MainContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "116"
+                  endingLineNumber = "116"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "528FE986-DF5E-4C9A-989F-4A4BB925BD94"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SchoolSecretary/MainContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "mergeClassrooms(local:remote:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "528FE986-DF5E-4C9A-989F-4A4BB925BD94 - ae82f9c9943fcda5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SchoolSecretary.MainContentView.body.getter : some"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/MainContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "74"
+                  endingLineNumber = "74"
+                  offsetFromSymbolStart = "1064">
+               </Location>
+               <Location
+                  uuid = "528FE986-DF5E-4C9A-989F-4A4BB925BD94 - bd7ea19dc7c07c4d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SchoolSecretary.MainContentView.mergeClassrooms(local: Swift.Array&lt;SchoolSecretary.Classroom&gt;, remote: Swift.Array&lt;SchoolSecretary.Classroom&gt;) -&gt; Swift.Array&lt;SchoolSecretary.Classroom&gt;"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/MainContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "188">
+               </Location>
+               <Location
+                  uuid = "528FE986-DF5E-4C9A-989F-4A4BB925BD94 - bd7ea19dc7c07c4d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SchoolSecretary.MainContentView.mergeClassrooms(local: Swift.Array&lt;SchoolSecretary.Classroom&gt;, remote: Swift.Array&lt;SchoolSecretary.Classroom&gt;) -&gt; Swift.Array&lt;SchoolSecretary.Classroom&gt;"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/MainContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "320">
+               </Location>
+               <Location
+                  uuid = "528FE986-DF5E-4C9A-989F-4A4BB925BD94 - bd7ea19dc7c07dac"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SchoolSecretary.MainContentView.mergeClassrooms(local: Swift.Array&lt;SchoolSecretary.Classroom&gt;, remote: Swift.Array&lt;SchoolSecretary.Classroom&gt;) -&gt; Swift.Array&lt;SchoolSecretary.Classroom&gt;"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/MainContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "284">
+               </Location>
+               <Location
+                  uuid = "528FE986-DF5E-4C9A-989F-4A4BB925BD94 - bd7ea19dc7c07dac"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SchoolSecretary.MainContentView.mergeClassrooms(local: Swift.Array&lt;SchoolSecretary.Classroom&gt;, remote: Swift.Array&lt;SchoolSecretary.Classroom&gt;) -&gt; Swift.Array&lt;SchoolSecretary.Classroom&gt;"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/MainContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "472">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EA6884C4-7F54-4B16-A6CE-BE712010D7C3"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SchoolSecretary/MainContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "102"
+            endingLineNumber = "102"
+            landmarkName = "updateLocalClassrooms(local:remote:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EA6884C4-7F54-4B16-A6CE-BE712010D7C3 - 70a7205b217803a9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SchoolSecretary.MainContentView.updateLocalClassrooms(local: inout Swift.Array&lt;SchoolSecretary.Classroom&gt;, remote: Swift.Array&lt;SchoolSecretary.Classroom&gt;) -&gt; ()"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/MainContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "EA6884C4-7F54-4B16-A6CE-BE712010D7C3 - 70a7205b217803a9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SchoolSecretary.MainContentView.updateLocalClassrooms(local: inout Swift.Array&lt;SchoolSecretary.Classroom&gt;, remote: Swift.Array&lt;SchoolSecretary.Classroom&gt;) -&gt; ()"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/MainContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "98"
+                  endingLineNumber = "98"
+                  offsetFromSymbolStart = "280">
+               </Location>
+               <Location
+                  uuid = "EA6884C4-7F54-4B16-A6CE-BE712010D7C3 - 70a7205b217803ce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SchoolSecretary.MainContentView.updateLocalClassrooms(local: inout Swift.Array&lt;SchoolSecretary.Classroom&gt;, remote: Swift.Array&lt;SchoolSecretary.Classroom&gt;) -&gt; ()"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/MainContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "EA6884C4-7F54-4B16-A6CE-BE712010D7C3 - 70a7205b217803ce"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SchoolSecretary.MainContentView.updateLocalClassrooms(local: inout Swift.Array&lt;SchoolSecretary.Classroom&gt;, remote: Swift.Array&lt;SchoolSecretary.Classroom&gt;) -&gt; ()"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/MainContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "280">
+               </Location>
+               <Location
+                  uuid = "EA6884C4-7F54-4B16-A6CE-BE712010D7C3 - 70a7205b217800f7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SchoolSecretary.MainContentView.updateLocalClassrooms(local: inout Swift.Array&lt;SchoolSecretary.Classroom&gt;, remote: Swift.Array&lt;SchoolSecretary.Classroom&gt;) -&gt; ()"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/MainContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "104"
+                  endingLineNumber = "104"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "EA6884C4-7F54-4B16-A6CE-BE712010D7C3 - 70a7205b217800f7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SchoolSecretary.MainContentView.updateLocalClassrooms(local: inout Swift.Array&lt;SchoolSecretary.Classroom&gt;, remote: Swift.Array&lt;SchoolSecretary.Classroom&gt;) -&gt; ()"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/MainContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "104"
+                  endingLineNumber = "104"
+                  offsetFromSymbolStart = "280">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6611E3E7-CDE8-4D51-B71D-E2C484A01C29"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SchoolSecretary/MainContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "113"
+            endingLineNumber = "113"
+            landmarkName = "addNewClassroomsToLocal(local:remote:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6611E3E7-CDE8-4D51-B71D-E2C484A01C29 - 8cabfb8bae86f870"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SchoolSecretary.MainContentView.addNewClassroomsToLocal(local: inout Swift.Array&lt;SchoolSecretary.Classroom&gt;, remote: Swift.Array&lt;SchoolSecretary.Classroom&gt;) -&gt; ()"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/MainContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115"
+                  offsetFromSymbolStart = "404">
+               </Location>
+               <Location
+                  uuid = "6611E3E7-CDE8-4D51-B71D-E2C484A01C29 - 8cabfb8bae86f851"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SchoolSecretary.MainContentView.addNewClassroomsToLocal(local: inout Swift.Array&lt;SchoolSecretary.Classroom&gt;, remote: Swift.Array&lt;SchoolSecretary.Classroom&gt;) -&gt; ()"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/MainContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114"
+                  offsetFromSymbolStart = "404">
+               </Location>
+               <Location
+                  uuid = "6611E3E7-CDE8-4D51-B71D-E2C484A01C29 - 7a5818ff4fe481ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Bool, Swift.Error&gt;) -&gt; () in SchoolSecretary.MainContentView.addNewClassroomsToLocal(local: inout Swift.Array&lt;SchoolSecretary.Classroom&gt;, remote: Swift.Array&lt;SchoolSecretary.Classroom&gt;) -&gt; ()"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/MainContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A9A2A99C-B516-48BE-AF66-7FC88B137459"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SchoolSecretary/MainContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "97"
+            endingLineNumber = "97"
+            landmarkName = "mergeClassrooms(local:remote:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A9A2A99C-B516-48BE-AF66-7FC88B137459 - bd7ea19dc7c07b9c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SchoolSecretary.MainContentView.mergeClassrooms(local: Swift.Array&lt;SchoolSecretary.Classroom&gt;, remote: Swift.Array&lt;SchoolSecretary.Classroom&gt;) -&gt; Swift.Array&lt;SchoolSecretary.Classroom&gt;"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/MainContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "1288">
+               </Location>
+               <Location
+                  uuid = "A9A2A99C-B516-48BE-AF66-7FC88B137459 - bd7ea19dc7c07bbd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SchoolSecretary.MainContentView.mergeClassrooms(local: Swift.Array&lt;SchoolSecretary.Classroom&gt;, remote: Swift.Array&lt;SchoolSecretary.Classroom&gt;) -&gt; Swift.Array&lt;SchoolSecretary.Classroom&gt;"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/MainContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "1820">
+               </Location>
+               <Location
+                  uuid = "A9A2A99C-B516-48BE-AF66-7FC88B137459 - bd7ea19dc7c07b56"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SchoolSecretary.MainContentView.mergeClassrooms(local: Swift.Array&lt;SchoolSecretary.Classroom&gt;, remote: Swift.Array&lt;SchoolSecretary.Classroom&gt;) -&gt; Swift.Array&lt;SchoolSecretary.Classroom&gt;"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/MainContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "99"
+                  endingLineNumber = "99"
+                  offsetFromSymbolStart = "2108">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "58FD4601-D3E0-4115-A0D1-1B52643E89BE"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SchoolSecretary/Models/Classroom.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "init(from:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "36E43FDB-087A-4F65-A15A-594AD01C8420"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SchoolSecretary/Models/Classroom.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "==(lhs:rhs:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8DDDF902-5D0B-44A6-AAD5-A4A749A75110"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SchoolSecretary/MainContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "mergeClassrooms(local:remote:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8DDDF902-5D0B-44A6-AAD5-A4A749A75110 - bd7ea19dc7c07aa4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SchoolSecretary.MainContentView.mergeClassrooms(local: Swift.Array&lt;SchoolSecretary.Classroom&gt;, remote: Swift.Array&lt;SchoolSecretary.Classroom&gt;) -&gt; Swift.Array&lt;SchoolSecretary.Classroom&gt;"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/MainContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "1100">
+               </Location>
+               <Location
+                  uuid = "8DDDF902-5D0B-44A6-AAD5-A4A749A75110 - bd7ea19dc7c07aa4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SchoolSecretary.MainContentView.mergeClassrooms(local: Swift.Array&lt;SchoolSecretary.Classroom&gt;, remote: Swift.Array&lt;SchoolSecretary.Classroom&gt;) -&gt; Swift.Array&lt;SchoolSecretary.Classroom&gt;"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/MainContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "1360">
+               </Location>
+               <Location
+                  uuid = "8DDDF902-5D0B-44A6-AAD5-A4A749A75110 - bd7ea19dc7c07aa4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SchoolSecretary.MainContentView.mergeClassrooms(local: Swift.Array&lt;SchoolSecretary.Classroom&gt;, remote: Swift.Array&lt;SchoolSecretary.Classroom&gt;) -&gt; Swift.Array&lt;SchoolSecretary.Classroom&gt;"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/MainContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "1376">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EBD399A5-BC16-4560-95FC-75A2882651D0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SchoolSecretary/MainContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "mergeClassrooms(local:remote:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EBD399A5-BC16-4560-95FC-75A2882651D0 - bd7ea19dc7c07d45"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SchoolSecretary.MainContentView.mergeClassrooms(local: Swift.Array&lt;SchoolSecretary.Classroom&gt;, remote: Swift.Array&lt;SchoolSecretary.Classroom&gt;) -&gt; Swift.Array&lt;SchoolSecretary.Classroom&gt;"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/MainContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "984">
+               </Location>
+               <Location
+                  uuid = "EBD399A5-BC16-4560-95FC-75A2882651D0 - bd7ea19dc7c07d45"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SchoolSecretary.MainContentView.mergeClassrooms(local: Swift.Array&lt;SchoolSecretary.Classroom&gt;, remote: Swift.Array&lt;SchoolSecretary.Classroom&gt;) -&gt; Swift.Array&lt;SchoolSecretary.Classroom&gt;"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/MainContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "1088">
+               </Location>
+               <Location
+                  uuid = "EBD399A5-BC16-4560-95FC-75A2882651D0 - bd7ea19dc7c07d45"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SchoolSecretary.MainContentView.mergeClassrooms(local: Swift.Array&lt;SchoolSecretary.Classroom&gt;, remote: Swift.Array&lt;SchoolSecretary.Classroom&gt;) -&gt; Swift.Array&lt;SchoolSecretary.Classroom&gt;"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/MainContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "1132">
+               </Location>
+               <Location
+                  uuid = "EBD399A5-BC16-4560-95FC-75A2882651D0 - bd7ea19dc7c07d45"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SchoolSecretary.MainContentView.mergeClassrooms(local: Swift.Array&lt;SchoolSecretary.Classroom&gt;, remote: Swift.Array&lt;SchoolSecretary.Classroom&gt;) -&gt; Swift.Array&lt;SchoolSecretary.Classroom&gt;"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/MainContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "84"
+                  endingLineNumber = "84"
+                  offsetFromSymbolStart = "1148">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EE697E85-728E-48D1-BA7F-AB7920082A43"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SchoolSecretary/MainContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "mergeClassrooms(local:remote:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EE697E85-728E-48D1-BA7F-AB7920082A43 - bd7ea19dc7c07d66"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SchoolSecretary.MainContentView.mergeClassrooms(local: Swift.Array&lt;SchoolSecretary.Classroom&gt;, remote: Swift.Array&lt;SchoolSecretary.Classroom&gt;) -&gt; Swift.Array&lt;SchoolSecretary.Classroom&gt;"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/MainContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "1016">
+               </Location>
+               <Location
+                  uuid = "EE697E85-728E-48D1-BA7F-AB7920082A43 - bd7ea19dc7c07d66"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SchoolSecretary.MainContentView.mergeClassrooms(local: Swift.Array&lt;SchoolSecretary.Classroom&gt;, remote: Swift.Array&lt;SchoolSecretary.Classroom&gt;) -&gt; Swift.Array&lt;SchoolSecretary.Classroom&gt;"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/MainContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "1120">
+               </Location>
+               <Location
+                  uuid = "EE697E85-728E-48D1-BA7F-AB7920082A43 - bd7ea19dc7c07d66"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SchoolSecretary.MainContentView.mergeClassrooms(local: Swift.Array&lt;SchoolSecretary.Classroom&gt;, remote: Swift.Array&lt;SchoolSecretary.Classroom&gt;) -&gt; Swift.Array&lt;SchoolSecretary.Classroom&gt;"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/MainContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "1032">
+               </Location>
+               <Location
+                  uuid = "EE697E85-728E-48D1-BA7F-AB7920082A43 - bd7ea19dc7c07d66"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SchoolSecretary.MainContentView.mergeClassrooms(local: Swift.Array&lt;SchoolSecretary.Classroom&gt;, remote: Swift.Array&lt;SchoolSecretary.Classroom&gt;) -&gt; Swift.Array&lt;SchoolSecretary.Classroom&gt;"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/MainContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "83"
+                  endingLineNumber = "83"
+                  offsetFromSymbolStart = "1136">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CDB9E3C9-D44C-4B3F-8705-F5747325DFF4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SchoolSecretary/MainContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "mergeClassrooms(local:remote:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CDB9E3C9-D44C-4B3F-8705-F5747325DFF4 - bd7ea19dc7c07a18"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SchoolSecretary.MainContentView.mergeClassrooms(local: Swift.Array&lt;SchoolSecretary.Classroom&gt;, remote: Swift.Array&lt;SchoolSecretary.Classroom&gt;) -&gt; Swift.Array&lt;SchoolSecretary.Classroom&gt;"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/MainContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "1676">
+               </Location>
+               <Location
+                  uuid = "CDB9E3C9-D44C-4B3F-8705-F5747325DFF4 - bd7ea19dc7c07a18"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SchoolSecretary.MainContentView.mergeClassrooms(local: Swift.Array&lt;SchoolSecretary.Classroom&gt;, remote: Swift.Array&lt;SchoolSecretary.Classroom&gt;) -&gt; Swift.Array&lt;SchoolSecretary.Classroom&gt;"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/MainContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "1804">
+               </Location>
+               <Location
+                  uuid = "CDB9E3C9-D44C-4B3F-8705-F5747325DFF4 - bd7ea19dc7c07a18"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SchoolSecretary.MainContentView.mergeClassrooms(local: Swift.Array&lt;SchoolSecretary.Classroom&gt;, remote: Swift.Array&lt;SchoolSecretary.Classroom&gt;) -&gt; Swift.Array&lt;SchoolSecretary.Classroom&gt;"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/MainContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "1696">
+               </Location>
+               <Location
+                  uuid = "CDB9E3C9-D44C-4B3F-8705-F5747325DFF4 - bd7ea19dc7c07a18"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SchoolSecretary.MainContentView.mergeClassrooms(local: Swift.Array&lt;SchoolSecretary.Classroom&gt;, remote: Swift.Array&lt;SchoolSecretary.Classroom&gt;) -&gt; Swift.Array&lt;SchoolSecretary.Classroom&gt;"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/MainContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "1808">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DE29CDFA-CC2A-4AD1-B11F-1742E5B5A588"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SchoolSecretary/MainContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "92"
+            endingLineNumber = "92"
+            landmarkName = "mergeClassrooms(local:remote:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "39B8522D-2667-4628-B0B0-F5A2C5677A2C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SchoolSecretary/MainContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "53"
+            endingLineNumber = "53"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "39B8522D-2667-4628-B0B0-F5A2C5677A2C - c8655e38fc79534c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in SchoolSecretary.MainContentView.body.getter : some"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/MainContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "39B8522D-2667-4628-B0B0-F5A2C5677A2C - a16c2eaa98c2efd8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #2 () -&gt; () in SchoolSecretary.MainContentView.body.getter : some"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/MainContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "76">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B11776D1-A681-498F-B825-67D6DAFD1848"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SchoolSecretary/MainContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "syncClassrooms()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5641EA4C-05D9-4028-A77A-72CA91F0CE48"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SchoolSecretary/StudentDetailView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "106"
+            endingLineNumber = "106"
+            landmarkName = "updateStudent()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "79EC31A1-1614-4F09-8DC6-C54B78324909"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SchoolSecretary/ClassroomDetailView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "125"
+            endingLineNumber = "125"
+            landmarkName = "updateClassroom()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "79EC31A1-1614-4F09-8DC6-C54B78324909 - 5d0c6cd1cc047b39"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SchoolSecretary.ClassroomDetailView.updateClassroom() -&gt; ()"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/ClassroomDetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "125"
+                  endingLineNumber = "125"
+                  offsetFromSymbolStart = "556">
+               </Location>
+               <Location
+                  uuid = "79EC31A1-1614-4F09-8DC6-C54B78324909 - acfd72c61e6d36db"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Bool, Swift.Error&gt;) -&gt; () in SchoolSecretary.ClassroomDetailView.updateClassroom() -&gt; ()"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/ClassroomDetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "125"
+                  endingLineNumber = "125"
+                  offsetFromSymbolStart = "748">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B589757A-AA93-4B8B-8445-DA0F541BFC13"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SchoolSecretary/ClassroomDetailView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "119"
+            endingLineNumber = "119"
+            landmarkName = "updateClassroom()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B589757A-AA93-4B8B-8445-DA0F541BFC13 - 5d0c6cd1cc047403"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SchoolSecretary.ClassroomDetailView.updateClassroom() -&gt; ()"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/ClassroomDetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "119"
+                  endingLineNumber = "119"
+                  offsetFromSymbolStart = "240">
+               </Location>
+               <Location
+                  uuid = "B589757A-AA93-4B8B-8445-DA0F541BFC13 - acfd72c61e6d39e1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Bool, Swift.Error&gt;) -&gt; () in SchoolSecretary.ClassroomDetailView.updateClassroom() -&gt; ()"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/ClassroomDetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "119"
+                  endingLineNumber = "119"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "B589757A-AA93-4B8B-8445-DA0F541BFC13 - 5d0c6cd1cc047403"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SchoolSecretary.ClassroomDetailView.updateClassroom() -&gt; ()"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/ClassroomDetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "119"
+                  endingLineNumber = "119"
+                  offsetFromSymbolStart = "516">
+               </Location>
+               <Location
+                  uuid = "B589757A-AA93-4B8B-8445-DA0F541BFC13 - acfd72c61e6d39e1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Bool, Swift.Error&gt;) -&gt; () in SchoolSecretary.ClassroomDetailView.updateClassroom() -&gt; ()"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/ClassroomDetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "119"
+                  endingLineNumber = "119"
+                  offsetFromSymbolStart = "208">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "097C757E-D6BA-44DF-A075-08193E0E950A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SchoolSecretary/ClassroomDetailView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "120"
+            endingLineNumber = "120"
+            landmarkName = "updateClassroom()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "097C757E-D6BA-44DF-A075-08193E0E950A - acfd72c61e6d365f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Bool, Swift.Error&gt;) -&gt; () in SchoolSecretary.ClassroomDetailView.updateClassroom() -&gt; ()"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/ClassroomDetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "121"
+                  endingLineNumber = "121"
+                  offsetFromSymbolStart = "68">
+               </Location>
+               <Location
+                  uuid = "097C757E-D6BA-44DF-A075-08193E0E950A - acfd72c61e6d365f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Bool, Swift.Error&gt;) -&gt; () in SchoolSecretary.ClassroomDetailView.updateClassroom() -&gt; ()"
+                  moduleName = "SchoolSecretary"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretary/ClassroomDetailView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "121"
+                  endingLineNumber = "121"
+                  offsetFromSymbolStart = "228">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C7653BA9-9122-4D00-B1F6-7BA1192C98EA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SchoolSecretaryTests/ClassroomManagerTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "124"
+            endingLineNumber = "124"
+            landmarkName = "testSyncWithBackend(successful:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "C7653BA9-9122-4D00-B1F6-7BA1192C98EA - 6ffb5a637a46a583"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SchoolSecretaryTests.ClassroomManagerTests.testSyncWithBackend(successful: Swift.Bool) -&gt; ()"
+                  moduleName = "SchoolSecretaryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretaryTests/ClassroomManagerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "124"
+                  endingLineNumber = "124"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "C7653BA9-9122-4D00-B1F6-7BA1192C98EA - 6ffb5a637a46a5a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SchoolSecretaryTests.ClassroomManagerTests.testSyncWithBackend(successful: Swift.Bool) -&gt; ()"
+                  moduleName = "SchoolSecretaryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretaryTests/ClassroomManagerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "125"
+                  endingLineNumber = "125"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "941E12BC-264A-44F8-81B3-C2EA541D1453"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SchoolSecretaryTests/ClassroomManagerTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "129"
+            endingLineNumber = "129"
+            landmarkName = "testSyncWithBackend(successful:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "941E12BC-264A-44F8-81B3-C2EA541D1453 - 6ffb5a637a46aa5e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SchoolSecretaryTests.ClassroomManagerTests.testSyncWithBackend(successful: Swift.Bool) -&gt; ()"
+                  moduleName = "SchoolSecretaryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretaryTests/ClassroomManagerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "129"
+                  endingLineNumber = "129"
+                  offsetFromSymbolStart = "496">
+               </Location>
+               <Location
+                  uuid = "941E12BC-264A-44F8-81B3-C2EA541D1453 - 6ffb5a637a46aa5e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SchoolSecretaryTests.ClassroomManagerTests.testSyncWithBackend(successful: Swift.Bool) -&gt; ()"
+                  moduleName = "SchoolSecretaryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretaryTests/ClassroomManagerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "129"
+                  endingLineNumber = "129"
+                  offsetFromSymbolStart = "480">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4C13B9F4-EDBA-4D04-985A-E80F1EC4B3C8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SchoolSecretaryTests/ClassroomManagerTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "73"
+            endingLineNumber = "73"
+            landmarkName = "testUpdateClassroom(successful:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EE52BDDA-0CD7-49A7-8999-1C207CA31630"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SchoolSecretaryTests/ClassroomManagerTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "testUpdateClassroom(successful:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EE52BDDA-0CD7-49A7-8999-1C207CA31630 - 38d1f841809c6684"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Bool, Swift.Error&gt;) -&gt; () in SchoolSecretaryTests.ClassroomManagerTests.testUpdateClassroom(successful: Swift.Bool) -&gt; ()"
+                  moduleName = "SchoolSecretaryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretaryTests/ClassroomManagerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "EE52BDDA-0CD7-49A7-8999-1C207CA31630 - 38d1f841809c6684"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Bool, Swift.Error&gt;) -&gt; () in SchoolSecretaryTests.ClassroomManagerTests.testUpdateClassroom(successful: Swift.Bool) -&gt; ()"
+                  moduleName = "SchoolSecretaryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretaryTests/ClassroomManagerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  uuid = "EE52BDDA-0CD7-49A7-8999-1C207CA31630 - e1679b0912506d55"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Bool, Swift.Error&gt;) -&gt; () in closure #1 (Swift.Result&lt;Swift.Bool, Swift.Error&gt;) -&gt; () in SchoolSecretaryTests.ClassroomManagerTests.testUpdateClassroom(successful: Swift.Bool) -&gt; ()"
+                  moduleName = "SchoolSecretaryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretaryTests/ClassroomManagerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "EE52BDDA-0CD7-49A7-8999-1C207CA31630 - e1679b0912506d55"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Bool, Swift.Error&gt;) -&gt; () in closure #1 (Swift.Result&lt;Swift.Bool, Swift.Error&gt;) -&gt; () in SchoolSecretaryTests.ClassroomManagerTests.testUpdateClassroom(successful: Swift.Bool) -&gt; ()"
+                  moduleName = "SchoolSecretaryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretaryTests/ClassroomManagerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "156">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "070D9901-CF7B-4B01-BDF9-45EF01973843"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SchoolSecretaryTests/ClassroomManagerTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "testUpdateClassroom(successful:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "070D9901-CF7B-4B01-BDF9-45EF01973843 - 38d1f841809c6684"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Bool, Swift.Error&gt;) -&gt; () in SchoolSecretaryTests.ClassroomManagerTests.testUpdateClassroom(successful: Swift.Bool) -&gt; ()"
+                  moduleName = "SchoolSecretaryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretaryTests/ClassroomManagerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "070D9901-CF7B-4B01-BDF9-45EF01973843 - 38d1f841809c6684"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Bool, Swift.Error&gt;) -&gt; () in SchoolSecretaryTests.ClassroomManagerTests.testUpdateClassroom(successful: Swift.Bool) -&gt; ()"
+                  moduleName = "SchoolSecretaryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretaryTests/ClassroomManagerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "156">
+               </Location>
+               <Location
+                  uuid = "070D9901-CF7B-4B01-BDF9-45EF01973843 - e1679b0912506d55"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Bool, Swift.Error&gt;) -&gt; () in closure #1 (Swift.Result&lt;Swift.Bool, Swift.Error&gt;) -&gt; () in SchoolSecretaryTests.ClassroomManagerTests.testUpdateClassroom(successful: Swift.Bool) -&gt; ()"
+                  moduleName = "SchoolSecretaryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretaryTests/ClassroomManagerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "136">
+               </Location>
+               <Location
+                  uuid = "070D9901-CF7B-4B01-BDF9-45EF01973843 - e1679b0912506d55"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Bool, Swift.Error&gt;) -&gt; () in closure #1 (Swift.Result&lt;Swift.Bool, Swift.Error&gt;) -&gt; () in SchoolSecretaryTests.ClassroomManagerTests.testUpdateClassroom(successful: Swift.Bool) -&gt; ()"
+                  moduleName = "SchoolSecretaryTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/erikperuzzi/Sviluppo/iOS/SchoolSecretary/SchoolSecretaryTests/ClassroomManagerTests.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "81"
+                  endingLineNumber = "81"
+                  offsetFromSymbolStart = "156">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
